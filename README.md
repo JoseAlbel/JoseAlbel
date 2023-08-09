@@ -1,13 +1,14 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=50&duration=4000&pause=1000&color=F7ED16&center=true&vCenter=true&width=446&height=63&lines=%3CHello+Coders%2F%3E;%3CThis+it+me%2F%3E)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED16&center=true&vCenter=true&width=446&lines=%3CHello+Coders%2F%3E)](https://git.io/typing-svg)
 
-
-## 🐜 Who am I
+## 🧠  Who am I
 
 - 👾 Hi! I'm Jose, and I am a Full Stack Web Developer. 
 - 🌱 I’m currently learning 
-- 📚 I'm interested in 
+- 📚 I'm interested in continuing to learn
+- 🔍 Testing with Jest, Testing Library and Cypress.
+- 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -15,10 +16,10 @@
 const jose = {
   code: ["Typescript", "Javascript", "HTML", "CSS",],
   technologies: ["Angular", "Rxjs", "NgRx", "React", "Redux", "Node", "Jest", "NestJS", "Express",],
-  testing: ["Testing Library", "Jasmine"],
-  database: [ "MongoDB", "Mongoose", "Firebase" ],
+  testing: ["Testing Library", "Jest", "Cypress"],
+  database: [ "MongoDB", "Mongoose", "Firebase", "Postman", "Sonar", "Netlify", "Vercel"],
   editors: [ "VScode",],
-  otherTools : [ "Git", "Github", "Figma", "Photoshop", "Trello",],
+  otherTools : [ "Git", "Github", "Figma", "Photoshop", "Trello", "Notion"],
   codeSchool: {
                 name: "ISDI-Coders",
                 location: "Madrid",
@@ -32,7 +33,7 @@ const jose = {
 
 <p align="center">
  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=josealbel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=airinpopcorn&layout=compact&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josealbel&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🪄 My Skill Set  
