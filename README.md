@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=50&duration=4000&pause=1000&color=F7ED16&center=true&vCenter=true&width=446&height=63&lines=%3CHello+Coders%2F%3E;%3CThis+it+me%2F%3E)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=50&duration=2500&pause=1000&color=F7ED16&center=true&vCenter=true&width=446&height=63&lines=%3CHello+Coders%2F%3E;%3CThis+it+me%2F%3E)](https://git.io/typing-svg)
 
 
 ## 🧠  Who am I
@@ -7,8 +6,17 @@
 - 👾 Hi! I'm Jose, and I am a Full Stack Web Developer. 
 - 🌱 I’m currently learning 
 - 📚 I'm interested in continuing to learn
-- 🔍 Testing with Jest, Testing Library and Cypress.
-- 
+- 🌟 I love doing Clean Code and Good Practices.
+- ⚡ I am looking for new projects to collaborate on.
+- 📈 Perfection, Efficient and Results-Driven.
+- 💻 MERN Stack Development.
+- 📫 Contact me at rayracing@gmail.com
+- 📚 Know about my experiences https://www.linkedin.com/in/josealbeldolopez/
+
+Kaizen methodology: learning every day to be better than yesterday.
+
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -75,7 +83,7 @@ const jose = {
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,reactivex,redux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,reactivex,redux,"webpack" />
   </a>
 </p>
 <p align="center">
