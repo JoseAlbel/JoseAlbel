@@ -1,5 +1,6 @@
-### Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7ED16&center=true&vCenter=true&width=446&lines=%3CHello+Coders%2F%3E)](https://git.io/typing-svg)
 <!--
 **JoseAlbel/JoseAlbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
